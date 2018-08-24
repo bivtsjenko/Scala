@@ -1,0 +1,23 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# An example controller showing a sample home page
+GET        /                    controllers.Widgets.index
+#GET        /cleanup             controllers.Application.cleanup
+
+#POST      /timestamp/:timestamp/containerId/:containerId                 controllers.Application.add(timestamp: Int, containerId: Int)
+
+#Widgets
+#GET        /api/widgets         controllers.Widgets.select
+GET         /api/widget/:containerNumber/:timestamp      controllers.Widgets.getContainerByTime(timestamp: Long, containerNumber: String)
+GET         /api/widget/:timestamp       controllers.Widgets.getMovement(timestamp: Long)
+
+#GET       /api/widget/:containerNumber      controllers.Widgets.find_container(containerNumber: String)
+POST       /api/widget          controllers.Widgets.put
+#DELETE     /api/widget/:id      controllers.Widgets.delete(id: String)
+#PATCH      /api/widget/:id      controllers.Widgets.update(id: String)
+
+#curl --header "Content-type: application/json" --request POST --data '{"timestamp": "123213_12321", "containerNumber": "12321", "containerType": "2", "loaded": "2", "transportType": "123", "direction": "test", "identifier": "13-1"}' http://localhost:9000/api/widget
+
+

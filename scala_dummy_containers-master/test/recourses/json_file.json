@@ -1,0 +1,561 @@
+[{
+  "timestamp": "2018-12-01T08:39:01",
+  "containerNumber": "POA74564742",
+  "containerType": "W6O4",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "6V2 29499"
+}, {
+  "timestamp": "2018-11-01T12:39:01",
+  "containerNumber": "0ZUR8160084",
+  "containerType": "KBY9",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "02W 33959"
+}, {
+  "timestamp": "2018-11-01T12:39:12",
+  "containerNumber": "7FAJ6449490",
+  "containerType": "TM12",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "T1B 00658"
+}, {
+  "timestamp": "2018-11-01T12:39:22",
+  "containerNumber": "0QOH3505329",
+  "containerType": "AS45",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "XWH 21499"
+}, {
+  "timestamp": "2019-11-01T22:39:01",
+  "containerNumber": "1AS69300640",
+  "containerType": "E2W4",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "HH4 71039"
+}, {
+  "timestamp": "2018-01-11T13:32:01",
+  "containerNumber": "RPEL8147389",
+  "containerType": "90G3",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "QU4 40280"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "ZJQI2276828",
+  "containerType": "08G7",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "OQL 16336"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "NCJZ1508246",
+  "containerType": "SFB8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "9G8 86748"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "US3F0117907",
+  "containerType": "ONY5",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "TGS 78658"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "XOBY5071511",
+  "containerType": "9Q22",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "H7X 54942"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "6ATD9706820",
+  "containerType": "GF26",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "352 84835"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "45KL0177517",
+  "containerType": "EDB8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "6SW 32436"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "ACGV8408683",
+  "containerType": "7WG9",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "1KW 95049"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "O7769876247",
+  "containerType": "NLM1",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "DOD 71336"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "4OHQ3760684",
+  "containerType": "L022",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "Z8Z 78295"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "GK967007382",
+  "containerType": "VVE5",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "W56 51647"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "YQ5G6866123",
+  "containerType": "JF56",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "C41 69680"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "IPZK4546646",
+  "containerType": "KX88",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "TDU 05412"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "REI12993809",
+  "containerType": "BS27",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "GGY 55703"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "3H1C4123753",
+  "containerType": "RVS1",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "SZ4 29688"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "58SJ4130537",
+  "containerType": "PA66",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "SRJ 03144"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "VMFH2500046",
+  "containerType": "H4U8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "ZXK 03769"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "JUHS1368924",
+  "containerType": "5J32",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "HO9 27497"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "2BO45404497",
+  "containerType": "D777",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "H3D 12711"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "152Q9339245",
+  "containerType": "FJM0",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "7XK 83367"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "L3BU5501076",
+  "containerType": "CJU8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "DSO 94671"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "4XIK5577304",
+  "containerType": "49Y6",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "WBL 40891"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "7HBO0579621",
+  "containerType": "OAZ8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "JCB 24968"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "UZJB1238990",
+  "containerType": "CW74",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "6NO 40981"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "MB8O6545620",
+  "containerType": "1M62",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "9Y0 60118"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "6W8Y8644286",
+  "containerType": "EQF0",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "H17 02170"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "KBK95456083",
+  "containerType": "FKF2",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "90J 52656"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "ZF0L5781772",
+  "containerType": "6F88",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "EVF 64579"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "XAR36005011",
+  "containerType": "XHF7",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "0Z9 56637"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "HWRH4608244",
+  "containerType": "2HU3",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "L9J 85156"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "R9I30145290",
+  "containerType": "LN24",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "3LK 15136"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "B3J62367564",
+  "containerType": "6787",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "2CX 21082"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "V6BU7857014",
+  "containerType": "C9E9",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "C2L 30313"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "EFEQ7122590",
+  "containerType": "HGL5",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "J10 50904"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "ZU5R0694768",
+  "containerType": "OJF2",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "770 53438"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "V0N69577921",
+  "containerType": "A9P3",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "GRI 31906"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "UZKO5051134",
+  "containerType": "Z7Z1",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "SAA 24517"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "D59M3342228",
+  "containerType": "MEH0",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "W8P 64393"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "HFLZ6255893",
+  "containerType": "KMO6",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "U24 77656"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "9DMD9150990",
+  "containerType": "VJD4",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "ANJ 54048"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "94M04875090",
+  "containerType": "6QR3",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "TUX 52128"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "2WB38321578",
+  "containerType": "4FC9",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "YXN 99245"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "UGQ37967475",
+  "containerType": "BV83",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "55Y 52428"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "GDLU2017397",
+  "containerType": "Q4Q6",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "3HX 77947"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "LPK13664072",
+  "containerType": "KKF2",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "HJV 51920"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "5CJ43783991",
+  "containerType": "B3B1",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "7TC 43847"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "3R8T4984696",
+  "containerType": "S7J7",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "RNF 45140"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "Z36Q2329961",
+  "containerType": "YEF9",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "YAV 38830"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "SDTB4350448",
+  "containerType": "S567",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "4JO 79100"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "IVUT5135095",
+  "containerType": "T5V5",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "3ZZ 65457"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "Z7GL5621160",
+  "containerType": "Z8B8",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "2NU 66698"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "38Y53691184",
+  "containerType": "O2N8",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "46C 41897"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "S8QD8963118",
+  "containerType": "AIM9",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "M0A 31879"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "DJM76297488",
+  "containerType": "Z5G5",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "NDA 69741"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "R8R48229248",
+  "containerType": "64H3",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "G0O 21167"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "0IL54305315",
+  "containerType": "HHT1",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "P3X 92871"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "P3VP0529408",
+  "containerType": "0GP5",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "TNO 93342"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "V4OP9018504",
+  "containerType": "E781",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "9GX 74348"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "PYAL9306425",
+  "containerType": "QX40",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "IA2 34094"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "JTUQ5181212",
+  "containerType": "9VA4",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "91C 24233"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "186J3191818",
+  "containerType": "MZZ6",
+  "loaded": true,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "5LN 33349"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "FKF60909254",
+  "containerType": "LZU8",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "OUT",
+  "identifier": "CXP 65592"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "0BXF7534654",
+  "containerType": "00Z3",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "DC0 55391"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "5BS94128829",
+  "containerType": "IZX9",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "VEX 73580"
+}, {
+  "timestamp": "2018-12-01T08:39:01.700Z",
+  "containerNumber": "FWFZ7290962",
+  "containerType": "VPE2",
+  "loaded": false,
+  "transportType": "LARGE",
+  "direction": "IN",
+  "identifier": "VQ3 81835"
+}]
